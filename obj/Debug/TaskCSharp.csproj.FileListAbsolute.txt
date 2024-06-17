@@ -1,0 +1,7 @@
+D:\Lab\8 семестр\ВКР\TaskCSharp\bin\Debug\TaskCSharp.exe.config
+D:\Lab\8 семестр\ВКР\TaskCSharp\bin\Debug\TaskCSharp.exe
+D:\Lab\8 семестр\ВКР\TaskCSharp\bin\Debug\TaskCSharp.pdb
+D:\Lab\8 семестр\ВКР\TaskCSharp\obj\Debug\TaskCSharp.csproj.AssemblyReference.cache
+D:\Lab\8 семестр\ВКР\TaskCSharp\obj\Debug\TaskCSharp.csproj.CoreCompileInputs.cache
+D:\Lab\8 семестр\ВКР\TaskCSharp\obj\Debug\TaskCSharp.exe
+D:\Lab\8 семестр\ВКР\TaskCSharp\obj\Debug\TaskCSharp.pdb
